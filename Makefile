@@ -1,5 +1,5 @@
 USER=nikeda
-NAME=gluons_analytics
+NAME=gluonts_analytics
 VERSION=0.0.1
 
 build:
